@@ -1,0 +1,31 @@
+https://hsel.co.uk/2014/05/31/stm32f0-tutorial-1-gpio/
+https://hsel.co.uk/2014/07/12/stm32-tutorial-3-timers-pt1/
+https://hsel.co.uk/2018/02/11/stm32f0-new-project-in-atollic-truestudio-for-stm32-using-ll-library/
+
+http://www.eeherald.com/section/design-guide/esmod4bsample.html
+http://www.eeherald.com/section/design-guide/esmod3b.html
+
+http://www.eeherald.com/section/design-guide/esmod6b.html -- keypad
+
+http://www.eeherald.com/section/design-guide/esmod6b.html
+
+http://www.sasabremec.com/?page_id=306
+
+https://www.hitex.com/fileadmin/documents/tools/dev_tools/dt_protected/insiders-guides/stm32/isg-stm32-v18d-scr.pdf
+
+gpiox-afr --- 0x48000020 pa2 tx
+
+gpiox --- 0x48000000
+
+
+/// INTERRUPT
+https://vivonomicon.com/2018/04/28/bare-metal-stm32-programming-part-4-intro-to-hardware-interrupts/
+
+https://github.com/WRansohoff/STM32x0_minimal_EXTI/commit/a29606576753dbc308be30cb2c256a9b8deacfe9
+
+
+https://books.google.co.in/books?id=l9RtBgAAQBAJ&pg=PA486&lpg=PA486&dq=which+alternate+function+used+in+stm32f0308+discovery+for+usart2&source=bl&ots=w0CYgaNmWd&sig=ACfU3U09urgUqYKlqeiPunBZkNMf8jWVKw&hl=ml&sa=X&ved=2ahUKEwiFgoDU2-3pAhWuyDgGHSFaAoQQ6AEwAHoECAoQAQ#v=onepage&q=which%20alternate%20function%20used%20in%20stm32f0308%20discovery%20for%20usart2&f=false
+
+https://hsel.co.uk/2014/06/20/stm32f0-tutorial-2-systick/  --- 
+
+https://hsel.co.uk/category/stm32f0-projects/
